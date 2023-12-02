@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.a84a52f8.css",
+    "main.js": "/react-gh-pages/static/js/main.a0d81d1e.js",
+    "static/media/contactme.jpg": "/react-gh-pages/static/media/contactme.30f0fc838d3ff66368a7.jpg",
+    "static/media/proj-3img.jpeg": "/react-gh-pages/static/media/proj-3img.ac153ae8c38b89a4cb62.jpeg",
+    "static/media/proj-7img.jpeg": "/react-gh-pages/static/media/proj-7img.24cac49c0440cdaf3959.jpeg",
+    "static/media/proj-2img.jpeg": "/react-gh-pages/static/media/proj-2img.fb51e8068c5b8038e233.jpeg",
+    "static/media/proj-4img.jpeg": "/react-gh-pages/static/media/proj-4img.bbc6160351cd71c88993.jpeg",
+    "static/media/proj-6img.jpeg": "/react-gh-pages/static/media/proj-6img.e68367064e08ee665403.jpeg",
+    "static/media/proj-5img.jpeg": "/react-gh-pages/static/media/proj-5img.386484f78af34f19c431.jpeg",
+    "static/media/proj-1.jpg": "/react-gh-pages/static/media/proj-1.3c9fb03a95eda5fe0a69.jpg",
+    "static/media/workshop-1.jpeg": "/react-gh-pages/static/media/workshop-1.223438655ebc6cf3410d.jpeg",
+    "static/media/brush.png": "/react-gh-pages/static/media/brush.85c9bab5ba2d7dcae1e3.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.a84a52f8.css.map": "/react-gh-pages/static/css/main.a84a52f8.css.map",
+    "main.a0d81d1e.js.map": "/react-gh-pages/static/js/main.a0d81d1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a84a52f8.css",
+    "static/js/main.a0d81d1e.js"
+  ]
+}
