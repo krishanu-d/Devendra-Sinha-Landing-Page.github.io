@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.a84a52f8.css",
-    "main.js": "/react-gh-pages/static/js/main.597e5e2f.js",
-    "static/media/contactme.jpg": "/react-gh-pages/static/media/contactme.30f0fc838d3ff66368a7.jpg",
-    "static/media/proj-3img.jpeg": "/react-gh-pages/static/media/proj-3img.ac153ae8c38b89a4cb62.jpeg",
-    "static/media/proj-7img.jpeg": "/react-gh-pages/static/media/proj-7img.24cac49c0440cdaf3959.jpeg",
-    "static/media/proj-2img.jpeg": "/react-gh-pages/static/media/proj-2img.fb51e8068c5b8038e233.jpeg",
-    "static/media/proj-4img.jpeg": "/react-gh-pages/static/media/proj-4img.bbc6160351cd71c88993.jpeg",
-    "static/media/proj-6img.jpeg": "/react-gh-pages/static/media/proj-6img.e68367064e08ee665403.jpeg",
-    "static/media/proj-5img.jpeg": "/react-gh-pages/static/media/proj-5img.386484f78af34f19c431.jpeg",
-    "static/media/proj-1.jpg": "/react-gh-pages/static/media/proj-1.3c9fb03a95eda5fe0a69.jpg",
-    "static/media/workshop-1.jpeg": "/react-gh-pages/static/media/workshop-1.223438655ebc6cf3410d.jpeg",
-    "static/media/brush.png": "/react-gh-pages/static/media/brush.85c9bab5ba2d7dcae1e3.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.a84a52f8.css.map": "/react-gh-pages/static/css/main.a84a52f8.css.map",
-    "main.597e5e2f.js.map": "/react-gh-pages/static/js/main.597e5e2f.js.map"
+    "main.css": "/Devendra-Sinha-Landing-Page.github.io/static/css/main.ff6cc9ca.css",
+    "main.js": "/Devendra-Sinha-Landing-Page.github.io/static/js/main.987ca7d9.js",
+    "static/media/contactme.jpg": "/Devendra-Sinha-Landing-Page.github.io/static/media/contactme.30f0fc838d3ff66368a7.jpg",
+    "static/media/proj-3img.jpeg": "/Devendra-Sinha-Landing-Page.github.io/static/media/proj-3img.ac153ae8c38b89a4cb62.jpeg",
+    "static/media/proj-7img.jpeg": "/Devendra-Sinha-Landing-Page.github.io/static/media/proj-7img.24cac49c0440cdaf3959.jpeg",
+    "static/media/proj-2img.jpeg": "/Devendra-Sinha-Landing-Page.github.io/static/media/proj-2img.fb51e8068c5b8038e233.jpeg",
+    "static/media/proj-4img.jpeg": "/Devendra-Sinha-Landing-Page.github.io/static/media/proj-4img.bbc6160351cd71c88993.jpeg",
+    "static/media/proj-6img.jpeg": "/Devendra-Sinha-Landing-Page.github.io/static/media/proj-6img.e68367064e08ee665403.jpeg",
+    "static/media/proj-5img.jpeg": "/Devendra-Sinha-Landing-Page.github.io/static/media/proj-5img.386484f78af34f19c431.jpeg",
+    "static/media/proj-1.jpg": "/Devendra-Sinha-Landing-Page.github.io/static/media/proj-1.3c9fb03a95eda5fe0a69.jpg",
+    "static/media/workshop-1.jpeg": "/Devendra-Sinha-Landing-Page.github.io/static/media/workshop-1.223438655ebc6cf3410d.jpeg",
+    "static/media/brush.png": "/Devendra-Sinha-Landing-Page.github.io/static/media/brush.85c9bab5ba2d7dcae1e3.png",
+    "index.html": "/Devendra-Sinha-Landing-Page.github.io/index.html",
+    "main.ff6cc9ca.css.map": "/Devendra-Sinha-Landing-Page.github.io/static/css/main.ff6cc9ca.css.map",
+    "main.987ca7d9.js.map": "/Devendra-Sinha-Landing-Page.github.io/static/js/main.987ca7d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.a84a52f8.css",
-    "static/js/main.597e5e2f.js"
+    "static/css/main.ff6cc9ca.css",
+    "static/js/main.987ca7d9.js"
   ]
 }
